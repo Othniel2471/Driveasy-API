@@ -8,7 +8,7 @@
 
 <!-- TABLE OF CONTENTS -->
 
-## 📗 Table of Contents
+## 📗 Table of Content
 
 - [📖 Fullstack - Rails with React ](#-driveasy-api-)
   - [🛠 Built With ](#-built-with-)
