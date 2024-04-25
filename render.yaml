@@ -2,6 +2,7 @@ databases:
   - name: driveasy
     databaseName: driveasy
     user: driveasy_user
+    plan: free
 
 services:
   - type: web
